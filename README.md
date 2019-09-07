@@ -1,2 +1,0 @@
-# JSyt
-Created with CodeSandbox
